@@ -31,6 +31,20 @@ Our flagship platform brings together a growing library of biomedical agent skil
 
 ---
 
+### 🔌 For AI Agents
+
+AIPOCH is designed to be **agent-discoverable and agent-usable**.
+
+Biomedical skills on the platform are structured so AI agents can:
+- Parse skill descriptions programmatically  
+- Understand required inputs and expected outputs  
+- Integrate skills into automated research workflows  
+- Chain multiple skills together for complex biomedical tasks  
+
+This makes AIPOCH not just a human knowledge hub, but a foundation for the next generation of AI-driven biomedical research systems.
+
+---
+
 ## ❤️ Built for the biomedical research community
 
 We believe the future of biomedical research lies in **shared skills, reusable intelligence, and human–AI collaboration**. AIPOCH exists to make biomedical expertise more open, structured, and ready for the next generation of AI-powered research workflows.
